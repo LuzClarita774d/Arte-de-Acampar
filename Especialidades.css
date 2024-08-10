@@ -91,7 +91,7 @@ header {
         height: 0px;
         position: absolute;
         top: 33px;
-        left: 0;
+        left: -23px;
         right: 0;
         width: 100vw;
         background-color:white;
@@ -173,7 +173,7 @@ header {
 }
 
 .speciality-text {
-    max-width: 60%;
+    max-width: 80%;
 }
 
 .speciality-text h2 {
